@@ -22,4 +22,5 @@ reinstall windows (fresh/clean install) only to THEN realize that my software wa
 what files I have and are missing.
 
 Example of what an end result could look like for you:
+
 ![image](https://github.com/user-attachments/assets/1d409de6-ff7a-43d4-9271-5bf3cbdde7e8)
