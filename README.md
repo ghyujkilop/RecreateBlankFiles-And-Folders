@@ -9,6 +9,7 @@ WizTree: https://diskanalyzer.com/
 Make a folder that we'll use that contains your scripts & csv data. This forlder is referred to as "Blue Lagoon" below.
 
 
+
 Preparation:
 
 1. Open it up and select the folder names you wish to backup, then select File > Export to .CSV File... and save this in Blue Lagoon.
@@ -23,9 +24,11 @@ NOTE: You can do this with as many CSV files as you like. It will just be more t
 
 5. Now you're done! You now have copies of your whole PCs file structure for exactly 0kbps!
 
+
 Optional:
 
 If you have more than one .csv, just keep updating and/or changing the paths to continuously reflect your data in different ways.
+
 
 Use Case example:
 
