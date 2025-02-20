@@ -1,3 +1,6 @@
+Please BACKUP your data prior to doing this. It's not required, but don't hold me responsible if you misuse this.
+
+
 Prerequisites:
 
 A Text Editor (I personally use Notepad++)
