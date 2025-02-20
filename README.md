@@ -40,3 +40,8 @@ what files I have and are missing.
 Example of what an end result could look like for you:
 
 ![image](https://github.com/user-attachments/assets/1d409de6-ff7a-43d4-9271-5bf3cbdde7e8)
+
+
+Warnings about this; this does NOT replace your actual data. DO NOT USE TO REPLACE YOUR ACTUAL DATA!!! This of it like an imitation, or like a decoy of your actual info.
+
+None of these files with actually work or open (except for the folders of course) because they have no real data in them.
