@@ -19,7 +19,7 @@ Usage:
 
 NOTE: You can do this with as many CSV files as you like. It will just be more time consuming when it comes to restoring. So best to select main directories.
 
-2. Open up your PowerWorking.py in a text editor, then change your "C:\Blue Lagoon\My Folders.csv" to suit your csv and filename.
+2. Open up your PowerWorking.py in a text editor, then change your "C:\Blue Lagoon\My Folders.csv" to suit your csv path & filename.
 
 3. Similarly, in the same .py file, change "C:\Blue Lagoon Processed" path to a folder you want to see your new blank files & folders in.
 
