@@ -13,7 +13,7 @@ Make a folder that we'll use that contains your scripts & csv data. This forlder
 
 
 
-Preparation:
+Usage:
 
 1. Open it up and select the folder names you wish to backup, then select File > Export to .CSV File... and save this in Blue Lagoon.
 
